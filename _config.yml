@@ -6,7 +6,7 @@ description: |
     This course covers the fundamentals of computation. We cover Finite Automata, Context Free languages, and Turing Machines.
     If time permits, we will also study more advanced problems in computational complexity theory.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "tocwebsite.github.io" # the base hostname & protocol for your site
+url: "https://tocwebsite.github.io" # the base hostname & protocol for your site
 syllabus: "syllabus/svm-rmarkdown-syllabus-example.pdf"
 githubdir: "tocwebsite/tocwebsite.github.io"
 # Author/user information
