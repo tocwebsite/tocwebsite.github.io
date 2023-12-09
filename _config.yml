@@ -8,8 +8,7 @@ description: |
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "tocwebsite.github.io" # the base hostname & protocol for your site
 syllabus: "syllabus/svm-rmarkdown-syllabus-example.pdf"
-githubdir: "kartiksrinivas007/TOC-website"
-
+githubdir: "tocwebsite/tocwebsite.github.io"
 # Author/user information
 email: kartiksrinivas007@gmail.com
 # twitter_username: ste
