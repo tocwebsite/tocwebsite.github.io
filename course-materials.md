@@ -8,7 +8,7 @@ permalink: /course-materials/
 
 ## Book
 
-Garrison, Joshua. 2006. [The Fabulous Sylvester: The Legend, the Music, the Seventies in San Francisco](https://www.amazon.com/Fabulous-Sylvester-Legend-Seventies-Francisco/dp/0312425694/). Picador.
+We follow the widely used textbook *Introduction to the Theory of Computation* by Michael Sipser. The book is available at [Amazon](https://www.amazon.in/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X). As part of the lectures, we will also provide a list of problems that can be solved from this book as additional practice.
 
 ## Additional Course Materials
 
@@ -16,5 +16,3 @@ Students must read the following documents in the first week of class. These out
 
 - [Taking Good Notes](http://svmiller.com/blog/2014/09/taking-good-notes/)
 - [Fun with Attendance and Grades (i.e. Students Should Attend Class)](http://svmiller.com/blog/2016/05/fun-with-attendance-grades/)
-- [The Educational Power of Discomfort](http://svmiller.com/blog/2016/05/educational-power-discomfort/)
-- [Put Your Laptops Away, Kids (Vol. 2)](http://svmiller.com/blog/2016/05/put-your-laptops-away-2/)
