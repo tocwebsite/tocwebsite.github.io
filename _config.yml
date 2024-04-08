@@ -1,6 +1,6 @@
 # Site settings
-title: CS2030
-subtitle: Theory of Computation
+title: Theory of Computation
+subtitle: 
 description: |
     Welcome to Computability theory - CS2030.
     This course covers the fundamentals of computation. We cover Finite Automata, Context Free languages, and Turing Machines.
@@ -10,9 +10,9 @@ url: "https://tocwebsite.github.io" # the base hostname & protocol for your site
 syllabus: "syllabus/svm-rmarkdown-syllabus-example.pdf"
 githubdir: "tocwebsite/tocwebsite.github.io"
 # Author/user information
-email: kartiksrinivas007@gmail.com
+email: subruk@cse.iith.ac.in
 # twitter_username: ste
-github_username:  kartiksrinivas
+github_username:  tocwebsite
 # authorurl: ""
 address: |
     Department of Computer Science
