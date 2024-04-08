@@ -10,11 +10,17 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://tocwebsite.github.io" # the base hostname & protocol for your site
 syllabus: "syllabus/svm-rmarkdown-syllabus-example.pdf"
 githubdir: "tocwebsite/tocwebsite.github.io"
+nptel: "https://nptel.ac.in/courses/106106242"
+youtube: "https://www.youtube.com/playlist?list=PLyqSpQzTE6M9-v4V62bCygAVYGluaijyo"
 # Author/user information
 email: subruk@cse.iith.ac.in
 # twitter_username: ste
 github_username:  tocwebsite
 # authorurl: ""
+people:
+    - person:
+            name: Subruk
+            url: "https://people.iith.ac.in/subruk/"
 address: |
     Department of Computer Science
     Indian Institute of Technology, Hyderabad
