@@ -3,62 +3,65 @@
   dirname: untitled-lecture
   tldr: "The Theoretical Foundation in Discrete Math that is required to take this course"
 
-- title: "Week 1 Lectures"
+- title: "Week 1"
   filename: 
   dirname: TOC/Theory of Computation/Week 01
   tldr: "Deterministic Finite Automata, Models of Computation"
 
 
-- title: "Week 2 Lectures"
+- title: "Week 2"
   filename: 
   dirname: TOC/Theory of Computation/Week 02
   tldr: "Non-Deterministic Finite Automata, Models of Computation"
 
-- title: "Week 3 Lectures"
+- title: "Week 3"
   filename: 
   dirname: TOC/Theory of Computation/Week 03
   tldr: "Finite Automata, Models of Computation"
 
-- title: "Week 4 Lectures"
+- title: "Week 4"
   filename: 
   dirname: TOC/Theory of Computation/Week 04
   tldr: "Finite Automata, Models of Computation"
 
-- title: "Week 5 Lectures"
+- title: "Week 5"
   filename: 
   dirname: TOC/Theory of Computation/Week 05
   tldr: "Finite Automata, Models of Computation"
 
-- title: "Week 6 Lectures"
+- title: "Week 6"
   filename: 
   dirname: TOC/Theory of Computation/Week 06
   tldr: "Finite Automata, Models of Computation"
 
-- title: "Week 7 Lectures"
+- title: "Week 7"
   filename: 
   dirname: TOC/Theory of Computation/Week 07
   tldr: "Finite Automata, Models of Computation"
 
-- title: "Week 8 Lectures"
+- title: "Week 8"
   filename: 
   dirname: TOC/Theory of Computation/Week 08
   tldr: "Finite Automata, Models of Computation"
 
-- title: "Week 9 Lectures"
+- title: "Week 9"
   filename: 
   dirname: TOC/Theory of Computation/Week 09
   tldr: "Finite Automata, Models of Computation"
 
-- title: "Week 10 Lectures"
+- title: "Week 10"
   filename: 
   dirname: TOC/Theory of Computation/Week 10
   tldr: "Finite Automata, Models of Computation"
 
-- title: "Week 11 Lectures"
+- title: "Week 11"
   filename: 
   dirname: TOC/Theory of Computation/Week 11
   tldr: "Finite Automata, Models of Computation"
 
-
+- title: "Week 11"
+  filename: 
+  dirname: TOC/Theory of Computation/Week 11
+  tldr: "Finite Automata, Models of Computation"
 # - title: "Week 2"
 #   filename: 

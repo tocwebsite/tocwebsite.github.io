@@ -5,6 +5,7 @@ description: |
     Welcome to Computability theory - CS2030.
     This course covers the fundamentals of computation. We cover Finite Automata, Context Free languages, and Turing Machines.
     If time permits, we will also study more advanced problems in computational complexity theory.
+    The course is being offered on the NPTEL Swayam portal also.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://tocwebsite.github.io" # the base hostname & protocol for your site
 syllabus: "syllabus/svm-rmarkdown-syllabus-example.pdf"
@@ -17,7 +18,7 @@ github_username:  tocwebsite
 address: |
     Department of Computer Science
     Indian Institute of Technology, Hyderabad
-    502-285
+    Sangareddy, Telangana, 502-285
 
 
 # Build settings
