@@ -1,4 +1,3 @@
-## Theorey of Computation Website
+## Theory of Computation Website
 ---
 
-Built using jekyll
